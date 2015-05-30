@@ -1,0 +1,342 @@
+Buildfile: /home/vadym/Documents/JavaWeb/IDE/Liferay/liferay-plugins-sdk-6.2 ga3/portlets/build.xml
+[ivy:resolve] :: Apache Ivy 2.3.0 - 20130110142753 :: http://ant.apache.org/ivy/ ::
+[ivy:resolve] :: loading settings :: file = /home/vadym/Documents/JavaWeb/IDE/Liferay/liferay-plugins-sdk-6.2 ga3/ivy-settings.xml
+[ivy:resolve] downloading http://repo1.maven.org/maven2/javax/activation/activation/1.1/activation-1.1.jar ...
+[ivy:resolve] ....................................... (61kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] javax.activation#activation;1.1!activation.jar (462ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/apache/ant/ant-apache-bsf/1.8.3/ant-apache-bsf-1.8.3.jar ...
+[ivy:resolve] ...... (9kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.apache.ant#ant-apache-bsf;1.8.3!ant-apache-bsf.jar (392ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10.jar ...
+[ivy:resolve] ..................................................................... (218kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.tigris.antelope#antelopetasks;3.2.10!antelopetasks.jar (502ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46.jar ...
+[ivy:resolve] ........................................................... (169kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.bouncycastle#bcpg-jdk16;1.46!bcpg-jdk16.jar (481ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.jar ...
+[ivy:resolve] .......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (1832kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.bouncycastle#bcprov-jdk16;1.46!bcprov-jdk16.jar (1391ms)
+[ivy:resolve] downloading http://repository.pentaho.org/artifactory/repo/biz/aQute/bnd/2.3.0/bnd-2.3.0.jar ...
+[ivy:resolve] ...............................................................................................................................................................................................................
+[ivy:resolve] ..........................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] .......................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] ............................................................................................................................................................................................................................................................................................................................................ (1986kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] biz.aQute#bnd;2.3.0!bnd.jar (7148ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar ...
+[ivy:resolve] ..................................................................................................................................................................................... (275kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.beanshell#bsh;2.0b4!bsh.jar (714ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/bsf/bsf/2.4.0/bsf-2.4.0.jar ...
+[ivy:resolve] ......................................................................... (110kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] bsf#bsf;2.4.0!bsf.jar (732ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/javax/ccpp/ccpp/1.0/ccpp-1.0.jar ...
+[ivy:resolve] .. (14kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] javax.ccpp#ccpp;1.0!ccpp.jar (404ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar ...
+[ivy:resolve] ......................................... (59kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] commons-logging#commons-logging;1.1.1!commons-logging.jar (400ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar ...
+[ivy:resolve] .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................. (1708kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.eclipse.jdt.core.compiler#ecj;3.7.2!ecj.jar (1339ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/com/google/errorprone/error_prone_ant/1.0.8/error_prone_ant-1.0.8.jar ...
+[ivy:resolve] .................................................................................................................................................................................................................. (349kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] com.google.errorprone#error_prone_ant;1.0.8!error_prone_ant.jar (581ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/jalopy/jalopy/1.5rc3/jalopy-1.5rc3.jar ...
+[ivy:resolve] ............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (1304kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] jalopy#jalopy;1.5rc3!jalopy.jar (1243ms)
+[ivy:resolve] downloading https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/net/sf/jargs/1.0/jargs-1.0.jar ...
+[ivy:resolve] ..... (11kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] net.sf#jargs;1.0!jargs.jar (1226ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar ...
+[ivy:resolve] ......................................................... (83kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] javax.servlet#javax.servlet-api;3.0.1!javax.servlet-api.jar (443ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar ...
+[ivy:resolve] ........................................................... (98kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] javax.servlet.jsp#jsp-api;2.1!jsp-api.jar (448ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.jar ...
+[ivy:resolve] ....................................................................................................................................................... (239kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] junit#junit;4.11!junit.jar (594ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar ...
+[ivy:resolve] ................................................................................................................................................................................................................................................................................................ (470kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] log4j#log4j;1.2.16!log4j.jar(bundle) (659ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/javax/mail/mail/1.4/mail-1.4.jar ...
+[ivy:resolve] ................................................................................................................................................................................................ (379kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] javax.mail#mail;1.4!mail.jar (632ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar ...
+[ivy:resolve] ................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................ (1544kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.mockito#mockito-all;1.9.5!mockito-all.jar (1217ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/osgi/org.osgi.compendium/4.3.1/org.osgi.compendium-4.3.1.jar ...
+[ivy:resolve] ......................................................................................................................................................................................................................................................................................................................................................................................................................................... (749kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.osgi#org.osgi.compendium;4.3.1!org.osgi.compendium.jar (789ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar ...
+[ivy:resolve] ................................................................................................... (341kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.osgi#org.osgi.core;4.3.1!org.osgi.core.jar (580ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-mockito/1.5/powermock-api-mockito-1.5.jar ...
+[ivy:resolve] ..................................... (66kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-api-mockito;1.5!powermock-api-mockito.jar (525ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-api-support/1.5/powermock-api-support-1.5.jar ...
+[ivy:resolve] ............ (18kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-api-support;1.5!powermock-api-support.jar (396ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-core/1.5/powermock-core-1.5.jar ...
+[ivy:resolve] ........................................................... (82kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-core;1.5!powermock-core.jar (442ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4/1.5/powermock-module-junit4-1.5.jar ...
+[ivy:resolve] ......... (25kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-module-junit4;1.5!powermock-module-junit4.jar (397ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-module-junit4-common/1.5/powermock-module-junit4-common-1.5.jar ...
+[ivy:resolve] ........ (13kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-module-junit4-common;1.5!powermock-module-junit4-common.jar (393ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/powermock/powermock-reflect/1.5/powermock-reflect-1.5.jar ...
+[ivy:resolve] ......... (42kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.powermock#powermock-reflect;1.5!powermock-reflect.jar (399ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar ...
+[ivy:resolve] ................................................................................................ (175kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] com.thoughtworks.qdox#qdox;1.12.1!qdox.jar (489ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.9.2/scala-compiler-2.9.2.jar ...
+[ivy:resolve] .........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] ..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] .............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] ................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (11181kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar (6151ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.jar ...
+[ivy:resolve] ..................................................................................................................................................................................... (271kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] xalan#serializer;2.7.1!serializer.jar (570ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/org/springframework/spring-test/3.0.7.RELEASE/spring-test-3.0.7.RELEASE.jar ...
+[ivy:resolve] ................................................................................................................................ (200kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] org.springframework#spring-test;3.0.7.RELEASE!spring-test.jar (572ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.jar ...
+[ivy:resolve] ............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[ivy:resolve] .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (3101kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] xalan#xalan;2.7.1!xalan.jar (2356ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0.jar ...
+[ivy:resolve] ........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (1331kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] xerces#xercesImpl;2.10.0!xercesImpl.jar (1311ms)
+[ivy:resolve] downloading http://repo1.maven.org/maven2/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar ...
+[ivy:resolve] ............................................................................................................................. (215kB)
+[ivy:resolve] .. (0kB)
+[ivy:resolve] 	[SUCCESSFUL ] xml-apis#xml-apis;1.4.01!xml-apis.jar (556ms)
+[ivy:resolve] :: problems summary ::
+[ivy:resolve] :::: ERRORS
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/activation/activation/1.1/activation-1.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/activation/activation/1.1/activation-1.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/activation/activation/1.1/activation-1.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/activation/activation/1.1/activation-1.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-apache-bsf/1.8.3/ant-apache-bsf-1.8.3.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-apache-bsf/1.8.3/ant-apache-bsf-1.8.3.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-parent/1.8.3/ant-parent-1.8.3.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-parent/1.8.3/ant-parent-1.8.3.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-apache-bsf/1.8.3/ant-apache-bsf-1.8.3-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/ant/ant-apache-bsf/1.8.3/ant-apache-bsf-1.8.3-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/tigris/antelope/antelopetasks/3.2.10/antelopetasks-3.2.10-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcpg-jdk16/1.46/bcpg-jdk16-1.46-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/bouncycastle/bcprov-jdk16/1.46/bcprov-jdk16-1.46-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/biz/aQute/bnd/2.3.0/bnd-2.3.0.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/biz/aQute/bnd/2.3.0/bnd-2.3.0.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/biz/aQute/bnd/2.3.0/bnd-2.3.0-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/biz/aQute/bnd/2.3.0/bnd-2.3.0-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/biz/aQute/bnd/2.3.0/bnd-2.3.0-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/bsh/2.0b4/bsh-2.0b4-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/bsh/2.0b4/bsh-2.0b4-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/beanshell/bsh/2.0b4/bsh-2.0b4-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/bsf/bsf/2.4.0/bsf-2.4.0.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/bsf/bsf/2.4.0/bsf-2.4.0.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/apache/3/apache-3.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/apache/3/apache-3.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/bsf/bsf/2.4.0/bsf-2.4.0-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/bsf/bsf/2.4.0/bsf-2.4.0-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/bsf/bsf/2.4.0/bsf-2.4.0-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/ccpp/ccpp/1.0/ccpp-1.0.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/ccpp/ccpp/1.0/ccpp-1.0.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/ccpp/ccpp/1.0/ccpp-1.0-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/ccpp/ccpp/1.0/ccpp-1.0-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/ccpp/ccpp/1.0/ccpp-1.0-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/commons/commons-parent/5/commons-parent-5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/commons/commons-parent/5/commons-parent-5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/apache/4/apache-4.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/apache/apache/4/apache-4.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_ant/1.0.8/error_prone_ant-1.0.8.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_ant/1.0.8/error_prone_ant-1.0.8.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_parent/1.0.8/error_prone_parent-1.0.8.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_parent/1.0.8/error_prone_parent-1.0.8.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/google/5/google-5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/google/5/google-5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_ant/1.0.8/error_prone_ant-1.0.8-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/google/errorprone/error_prone_ant/1.0.8/error_prone_ant-1.0.8-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/jalopy/jalopy/1.5rc3/jalopy-1.5rc3.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/jalopy/jalopy/1.5rc3/jalopy-1.5rc3.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/jalopy/jalopy/1.5rc3/jalopy-1.5rc3-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/jalopy/jalopy/1.5rc3/jalopy-1.5rc3-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/jalopy/jalopy/1.5rc3/jalopy-1.5rc3-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/sf/jargs/1.0/jargs-1.0.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/sf/jargs/1.0/jargs-1.0.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/sf/jargs/1.0/jargs-1.0-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/sf/jargs/1.0/jargs-1.0-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/sf/jargs/1.0/jargs-1.0-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/java/jvnet-parent/1/jvnet-parent-1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/net/java/jvnet-parent/1/jvnet-parent-1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/junit/junit/4.11/junit-4.11.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/junit/junit/4.11/junit-4.11.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/junit/junit/4.11/junit-4.11-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/junit/junit/4.11/junit-4.11-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/log4j/log4j/1.2.16/log4j-1.2.16.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/log4j/log4j/1.2.16/log4j-1.2.16.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/log4j/log4j/1.2.16/log4j-1.2.16-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/mail/mail/1.4/mail-1.4.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/mail/mail/1.4/mail-1.4.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/mail/mail/1.4/mail-1.4-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/javax/mail/mail/1.4/mail-1.4-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.compendium/4.3.1/org.osgi.compendium-4.3.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.compendium/4.3.1/org.osgi.compendium-4.3.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.compendium/4.3.1/org.osgi.compendium-4.3.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.compendium/4.3.1/org.osgi.compendium-4.3.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-mockito/1.5/powermock-api-mockito-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-mockito/1.5/powermock-api-mockito-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api/1.5/powermock-api-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api/1.5/powermock-api-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock/1.5/powermock-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock/1.5/powermock-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/sonatype/oss/oss-parent/5/oss-parent-5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/sonatype/oss/oss-parent/5/oss-parent-5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-mockito/1.5/powermock-api-mockito-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-mockito/1.5/powermock-api-mockito-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-support/1.5/powermock-api-support-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-support/1.5/powermock-api-support-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-support/1.5/powermock-api-support-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-api-support/1.5/powermock-api-support-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-core/1.5/powermock-core-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-core/1.5/powermock-core-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-core/1.5/powermock-core-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-core/1.5/powermock-core-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4/1.5/powermock-module-junit4-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4/1.5/powermock-module-junit4-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-modules/1.5/powermock-modules-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-modules/1.5/powermock-modules-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4/1.5/powermock-module-junit4-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4/1.5/powermock-module-junit4-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4-common/1.5/powermock-module-junit4-common-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4-common/1.5/powermock-module-junit4-common-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4-common/1.5/powermock-module-junit4-common-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-module-junit4-common/1.5/powermock-module-junit4-common-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-reflect/1.5/powermock-reflect-1.5.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-reflect/1.5/powermock-reflect-1.5.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-reflect/1.5/powermock-reflect-1.5-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/powermock/powermock-reflect/1.5/powermock-reflect-1.5-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/codehaus/codehaus-parent/4/codehaus-parent-4.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/scala-lang/scala-compiler/2.9.2/scala-compiler-2.9.2.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/scala-lang/scala-compiler/2.9.2/scala-compiler-2.9.2.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/scala-lang/scala-compiler/2.9.2/scala-compiler-2.9.2-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/scala-lang/scala-compiler/2.9.2/scala-compiler-2.9.2-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/serializer/2.7.1/serializer-2.7.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/serializer/2.7.1/serializer-2.7.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/serializer/2.7.1/serializer-2.7.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/serializer/2.7.1/serializer-2.7.1-src.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/serializer/2.7.1/serializer-2.7.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-test/3.0.7.RELEASE/spring-test-3.0.7.RELEASE.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-test/3.0.7.RELEASE/spring-test-3.0.7.RELEASE.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-parent/3.0.7.RELEASE/spring-parent-3.0.7.RELEASE.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-parent/3.0.7.RELEASE/spring-parent-3.0.7.RELEASE.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-test/3.0.7.RELEASE/spring-test-3.0.7.RELEASE-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/org/springframework/spring-test/3.0.7.RELEASE/spring-test-3.0.7.RELEASE-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/xalan/2.7.1/xalan-2.7.1.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/xalan/2.7.1/xalan-2.7.1.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/xalan/2.7.1/xalan-2.7.1-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xalan/xalan/2.7.1/xalan-2.7.1-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0-javadoc.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.pom
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
+[ivy:resolve] 	Server access Error: handshake alert:  unrecognized_name url=https://gibson.asu.edu/maven/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-javadoc.jar
+[ivy:resolve] 
+[ivy:resolve] :: USE VERBOSE OR DEBUG MESSAGE LEVEL FOR MORE DETAILS
+[ivy:retrieve] :: retrieving :: com.liferay#plugins
+[ivy:retrieve] 	confs: [default]
+[ivy:retrieve] 	35 artifacts copied, 0 already retrieved (28742kB/207ms)
+[ivy:retrieve] :: retrieving :: com.liferay#plugins
+[ivy:retrieve] 	confs: [default]
+[ivy:retrieve] 	0 artifacts copied, 0 already retrieved (0kB/42ms)
+create:
+     [copy] Copying 9 files to /home/vadym/Documents/JavaWeb/WORKSPACES/Liferay/.metadata/.plugins/com.liferay.ide.sdk.core/create/1433003614260/project-portlet
+    [mkdir] Created dir: /home/vadym/Documents/JavaWeb/WORKSPACES/Liferay/.metadata/.plugins/com.liferay.ide.sdk.core/create/1433003614260/project-portlet/docroot/WEB-INF/tld
+     [copy] Copying 7 files to /home/vadym/Documents/JavaWeb/WORKSPACES/Liferay/.metadata/.plugins/com.liferay.ide.sdk.core/create/1433003614260/project-portlet/docroot/WEB-INF/tld
+BUILD SUCCESSFUL
+Total time: 4 minutes 58 seconds

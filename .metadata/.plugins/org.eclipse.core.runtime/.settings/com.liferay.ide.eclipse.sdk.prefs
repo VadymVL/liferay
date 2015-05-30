@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+sdks=<?xml version\="1.0" encoding\="UTF-8"?>\n<sdks default\="liferay-plugins-sdk-6.2 ga4">\n<sdk location\="/home/vadym/Documents/JavaWeb/IDE/Liferay/liferay-plugins-sdk-6.2 ga3" name\="liferay-plugins-sdk-6.2 ga3" version\="6.2.0"/>\n<sdk location\="/home/vadym/Documents/JavaWeb/IDE/Liferay/liferay-plugins-sdk-6.2 ga4" name\="liferay-plugins-sdk-6.2 ga4" version\="6.2.0"/>\n</sdks>
